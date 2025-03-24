@@ -1,0 +1,1 @@
+This folder contains patients' data files with id as file name with HGNC symbol, log2r_cna and z score.
