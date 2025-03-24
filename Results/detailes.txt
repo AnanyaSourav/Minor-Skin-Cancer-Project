@@ -1,0 +1,2 @@
+This is the result file containing:
+Stastical varience
