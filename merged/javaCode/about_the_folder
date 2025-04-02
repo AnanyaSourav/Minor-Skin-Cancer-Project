@@ -1,0 +1,1 @@
+This contains java code for conversion of GISTIC value to log2r_CNA, TPM value to z Score and merging both the files based on HGNC symbol.
