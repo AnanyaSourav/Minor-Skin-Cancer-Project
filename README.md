@@ -1,23 +1,20 @@
 # Minor-Skin-Cancer-Project
-Patient-Specific Correlation Analysis of Gene Expression and Copy Number Alterations in Skin Cancer.
-I do not claim any correctness over the generated results.
+**Title: Mathematical Modeling of CNA Expression Variability in Skin Cancer Using Network and Clustering Approaches**
 
-Overview
-This project investigates the relationship between gene expression and copy number alterations (CNA) in skin cancer using patient-wise correlation analysis. The goal is to identify oncogenes and tumor suppressors influenced by CNA changes.
+This project explores copy number alterations (CNA) and gene expression variability in skin cancer using a mathematical and network-based approach. Instead of traditional correlation or machine learning methods, this study applies:
+>Variability analysis to classify genes based on expression fluctuations.
+>Clustering techniques to group genes with similar CNA-expression behavior.
+>Graph theory-based network analysis to map gene interactions.
+>Patient clustering to identify potential subtypes for precision oncology.
+These analyses help uncover key oncogenes, tumor suppressors, and potential therapeutic targets, contributing to a better understanding of skin cancer mechanisms.
 
-Key Steps
-Data Collection:
-Patient-wise RNA expression and CNA data were collected (50 patients) from https://www.cancermodels.org/.
-Expression values were converted to Z-scores, and CNA values were transformed to log2R_CNA.
+Contents
+This repository includes:
+✔ Processed data files with CNA and gene expression values.
+✔ Scripts for analysis, including gene clustering, network construction, and patient grouping.
+✔ Visualizations of gene networks, variability, and clustering results.
 
-Correlation Analysis:
-Pearson and Spearman correlations were computed to evaluate relationships between gene expression and CNAs.
-Adjusted p-values were used for statistical significance.
-
-Visualization & Summarization:
-Patient-wise correlation plots were generated.
-Average correlation trends across patients were analyzed.
-
-Results:
-Identified key oncogenes and tumor suppressors showing significant correlation patterns.
-Demonstrated patient-specific variations in gene regulation due to CNA changes.
+Key Findings
+✔ Identified high-variability genes as potential oncogenes/tumor suppressors.
+✔ Network analysis revealed key hub genes involved in cancer progression.
+✔ Patient clustering suggested distinct skin cancer subtypes, aiding precision medicine.
