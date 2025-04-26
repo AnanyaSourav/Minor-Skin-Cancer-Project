@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Project Status" />
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen" alt="Project Status" />
   <img src="https://img.shields.io/badge/License-MIT-blue" alt="License: MIT" />
   <img src="https://img.shields.io/badge/Language-R%20%7C%20Java-orange" alt="Language: R and Java" />
   <img src="https://img.shields.io/badge/Data-Skin%20Cancer%20Patient%20Specific-lightgrey" alt="Skin Cancer Data" />
