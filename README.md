@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen" alt="Project Status" />
-  <img src="https://img.shields.io/badge/License-MIT-blue" alt="License: MIT" />
+  <img src="https://img.shields.io/badge/License-MIT-blue" alt="License:CC BY-NC-ND 4.0" />
   <img src="https://img.shields.io/badge/Language-R%20%7C%20Java-orange" alt="Language: R and Java" />
   <img src="https://img.shields.io/badge/Data-Skin%20Cancer%20Patient%20Specific-lightgrey" alt="Skin Cancer Data" />
   <img src="https://img.shields.io/badge/Mathematical_Modeling-Yes-blueviolet" alt="Mathematical Modeling" />
@@ -41,3 +41,7 @@ This project develops a patient-wise mathematical framework to explore gene-leve
 
 **If you find this framework helpful, please consider citing the project:
 "A Mathematical Framework Based on Stratification of Gene CNA and Expression Variability and Interaction Patterns in Skin Cancer Using Patient-Specific Data" (2025).**
+
+## License
+This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0). See the [LICENSE](./LICENSE) file for more information.
+
