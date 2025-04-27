@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen" alt="Project Status" />
-  <img src="https://img.shields.io/badge/License-CC BY-NC-ND 4.0-blue" alt="License:CC BY-NC-ND 4.0" />
+![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
   <img src="https://img.shields.io/badge/Language-R%20%7C%20Java-orange" alt="Language: R and Java" />
   <img src="https://img.shields.io/badge/Data-Skin%20Cancer%20Patient%20Specific-lightgrey" alt="Skin Cancer Data" />
   <img src="https://img.shields.io/badge/Mathematical_Modeling-Yes-blueviolet" alt="Mathematical Modeling" />
